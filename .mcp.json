@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "headcount-labs": {
+      "type": "http",
+      "url": "https://api.headcountlabs.com/mcp?profile=claude"
+    }
+  }
+}

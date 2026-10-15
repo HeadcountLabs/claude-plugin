@@ -1,0 +1,15 @@
+{
+  "name": "headcountlabs",
+  "description": "The Headcount Labs job search plugin for Claude Code.",
+  "owner": {
+    "name": "Headcount Labs",
+    "email": "support@headcountlabs.com"
+  },
+  "plugins": [
+    {
+      "name": "headcount-labs",
+      "source": "./",
+      "description": "Search, count and read open job postings, with a link to every source posting."
+    }
+  ]
+}
