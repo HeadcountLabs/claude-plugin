@@ -72,7 +72,7 @@ The [MCP tools page](https://headcountlabs.com/docs/mcp-tools/) lists every tool
 The first time Claude uses the server, Claude Code opens a Headcount Labs sign-in page (OAuth). No API key is needed
 and nothing is stored in this plugin.
 
-Every organization gets 1,000,000 records free each calendar month (UTC), with no card needed. After that, every record
+Every organization gets 100,000 records free each calendar month (UTC), with no card needed. After that, every record
 delivered costs a flat $0.01 per 1,000, at any volume. See the [pricing page](https://headcountlabs.com/pricing/).
 
 Claude sends your search filters and questions to api.headcountlabs.com and receives job data back. Headcount Labs does
