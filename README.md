@@ -55,9 +55,14 @@ original posting, so you can check it and apply there.
 | `search_jobs` | Finds jobs by keywords, location, pay, work arrangement, dates and other filters |
 | `count_jobs` | Counts matching jobs without fetching them |
 | `get_job` | Reads one job's full record, with every linked source posting |
+| `market_insights` | Answers common job-market questions (pay, top employers, remote share, jobs by state) from a dated snapshot |
 | `list_fields` | Finds the right filter or field for a keyword such as "pay" or "remote" |
+| `read_file` | Reads jobs from a results file that `search_jobs` saved |
+| `compare_sources` | Compares your own job list with Headcount Labs, row by row |
+| `verify_jobs` | Re-opens a small sample of original postings to check they still match |
 | `search_docs` | Answers questions about Headcount Labs from its docs |
 | `get_usage` | Shows what you have used and what is left this month |
+| `set_confirmation_level` | Sets how large a search can be before Claude must ask you first |
 
 The [MCP tools page](https://headcountlabs.com/docs/mcp-tools/) lists every tool and what it does.
 

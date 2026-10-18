@@ -1,7 +1,7 @@
 {
   "name": "headcount-labs",
   "displayName": "Headcount Labs",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Search, count and read open job postings from company career sites and job boards, with a link to every source posting.",
   "author": {
     "name": "Headcount Labs",
@@ -11,7 +11,17 @@
   "homepage": "https://headcountlabs.com/mcp/",
   "repository": "https://github.com/headcountlabs/claude-plugin",
   "license": "MIT",
-  "keywords": ["jobs", "job search", "job postings", "hiring", "labor market"],
+  "keywords": [
+    "jobs",
+    "job search",
+    "job postings",
+    "job board",
+    "hiring",
+    "recruiting",
+    "salary",
+    "remote jobs",
+    "labor market"
+  ],
   "icon": "./logo.png",
   "documentationUrl": "https://headcountlabs.com/mcp/",
   "supportUrl": "https://headcountlabs.com/contact/",
