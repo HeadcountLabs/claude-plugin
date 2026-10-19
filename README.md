@@ -91,7 +91,7 @@ original postings to check that they match. The plugin can't apply to jobs, cont
 ## More from Headcount Labs
 
 - [REST API docs](https://headcountlabs.com/docs/) for your own code.
-- [Open dataset](https://huggingface.co/datasets/HeadcountLabs/job-postings) on Hugging Face, CC BY 4.0.
+- [Open dataset](https://huggingface.co/datasets/HeadcountLabs/job-postings) on Hugging Face, CC BY 4.0. Example queries and the schema: [HeadcountLabs/job-postings](https://github.com/HeadcountLabs/job-postings).
 - [career-ops plugin](https://github.com/HeadcountLabs/career-ops-plugin-headcountlabs) for job searches in career-ops.
 
 ## Support
